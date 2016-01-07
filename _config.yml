@@ -1,0 +1,20 @@
+# Dependencies
+markdown:				redcarpet
+highlighter:			pygments
+
+# Permalinks
+permalink:				pretty
+
+# Setup
+title:					'IT IS ALL B3'
+tagline:				'where he writes my head up.'
+description:			'This is the official blog of Ban, Nguyen Duc, a digital producer by day and a husband, father, dog/cat lover by night.'
+url:					https://ducban.com
+
+author:
+  name:					'B3'
+  url:					https://ducban.com
+
+paginate:				5
+
+# Custom vars
