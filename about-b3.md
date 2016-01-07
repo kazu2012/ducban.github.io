@@ -14,7 +14,7 @@ title: About B3
 ![The Owner, his wife and their son on top of a mountain pass leads to Nha Trang from Da Lat.](https://pbs.twimg.com/profile_banners/13422342/1440728498/1500x500 "The Owner, his wife and their son on top of a mountain pass leads to Nha Trang from Da Lat.")
 
 ## Why English?
-Well, this website started with __Vietnamese__, then switched to __English__, then switched back to __Vietnamese__ again. This __Vietnamese__ version lasted for a while. Nobody counts. Not that anyone cares. Haha. And, now it switched to __English__ once again. What could __The Owner__ say: "It's my website, I have the right to do it.  That's all!".
+Well, this website started with __Vietnamese__, then switched to __English__, then switched back to __Vietnamese__ again. This __Vietnamese__ version lasted for a while. Haha. But now it switched to __English__ once again. What could __The Owner__ say: "It's my website, I have the right to do it.  Yay me!".
 
 ## Where are your all posts?
 They are all __out of date__. Let them go.
