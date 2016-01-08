@@ -11,7 +11,7 @@ title: About B3
 	* Digital Producer by day.
 	* Husband, father, dog/cat lover by night.
 
-![The Owner, his wife and their son on top of a mountain pass leads to Nha Trang from Da Lat.](https://pbs.twimg.com/profile_banners/13422342/1440728498/1500x500 "The Owner, his wife and their son on top of a mountain pass leads to Nha Trang from Da Lat.")
+![The Owner, his wife and their son on top of a mountain pass leads to Nha Trang from Da Lat.](/public/uploads/images/2016-01-05-about-b3.jpg "The Owner, his wife and their son on top of a mountain pass leads to Nha Trang from Da Lat.")
 
 ## Why English?
 Well, this website started with __Vietnamese__, then switched to __English__, then switched back to __Vietnamese__ again. This __Vietnamese__ version lasted for a while. Haha. But now it switched to __English__ once again. What could __The Owner__ say: "It's my website, I have the right to do it.  Yay me!".
