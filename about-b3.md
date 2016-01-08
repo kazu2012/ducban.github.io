@@ -20,7 +20,7 @@ Well, this website started with __Vietnamese__, then switched to __English__, th
 They are all __out of date__. Let them go.
 
 ## Why Jekyll?
-This was [Wordpress](http://wordpress.org) serving this website all those years. Now [Jekyll](http://jekyllrb.com) is its successor. It's all because __The Owner__ decided to change his __writing platform__. As for now when he wants to write he will open his favorite IDE [Sublime Text](http://www.sublimetext.com/) 3 to write down this wise words into a text file which will be saved as a markdown file. And then, he pushs this new markdown file as a new Jekyll's node to [Github](http://github.com), and __BAM!!!__, a new blog post appears on this website. Way too cool, right?
+This was [Wordpress](http://wordpress.org) serving this website all those years. Now [Jekyll](http://jekyllrb.com) is its successor. It's all because __The Owner__ decided to change his __writing platform__. As for now when he wants to write he will open his favorite IDE [Sublime Text](http://www.sublimetext.com/) 3 to write down this wise words into a text file which will be saved as a markdown file. And then he pushs this new markdown file as a new Jekyll's node to [Github](http://github.com), and __BAM!!!__, a new blog post appears on this website. Way too cool, right?
 
 That's it. <code>free -t -m</code> no more.
 
