@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Oh! Quentino Quentino
-categories: [movies]
-tags: [quentine tarantino, hateful eight (2016)]
+categories: [notes]
+tags: [movies, quentine tarantino, hateful eight (2016)]
 description: Quentin Tarantino's eighth film, The Hateful Eight (2016), is coming to screen in Vietnam. Woohoo!
 ---
 
