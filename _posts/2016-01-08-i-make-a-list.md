@@ -1,6 +1,9 @@
 ---
 layout: post
 title: I Make a List
+categories: [lists]
+tags: [web development, useful stuffs, news, articles]
+description: It happened a lot when I wanted to write something but then I lost the spark.
 ---
 
 
