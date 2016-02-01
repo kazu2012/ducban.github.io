@@ -17,6 +17,6 @@ He didn't see the change of her color. He told her that. She gave him a deathly 
 
 But then he asked a girl if she could see any change of her new hair. The girl said she could. "Her hair is now brown with some blue line spark underneath!" - said the girl.
 
-So Git, once you could simulate the girl's eyes, you could save all the husbands in the world. And someday __The Husband__ would start a note with "__The Wife__ had a new haircut, it was amazing."
+So Git, once you could simulate the girl's eyes, you could save all the husbands in the world. And someday __The Husband__ would start a note with "__The Wife__ had a new haircut, it was amazing." That's all, no question comes along.
 
 And the world would in peace for a while. Yes, before other questions come.
