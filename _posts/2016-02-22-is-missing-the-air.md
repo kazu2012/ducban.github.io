@@ -23,4 +23,4 @@ Yeah 2015 was a weird year. She went to the US __twice__ for business. Meanwhile
 
 Well, there is one weird thing which wasn't listed out above: __I didn't cross over the border last year__. Damn, I miss the air where I could see the bright sunlight on the lazy clouds underneath the plane. I miss the rain on the streets of Singapore which sudden comes sudden goes just like a teenage girl when she's in love. I miss the huge bookstore in BKK where I could be a child who eager to explore all the corners of it. Btw, thanks to all my friends who went abroad and brought Starbuck's mugs for me. Hoping I could soon go abroad and bring them some weird gifts from there.
 
-Phew, this node is quite long. I think it's all good to stop hyping about ourselves including myself. You can close this page now. Thanks for reading. You're rock!
+Phew, this node is quite long now. I think it's all good to stop hyping about ourselves including myself here. Please close this page. Thanks for reading. You're rock!
