@@ -13,7 +13,7 @@ Hmm, yet another Lunar New Year Holiday went through our boring life. Nah, I jus
 
 My friends were like "_Mui Ne again?_". My colleagues were like "_Mui Ne again?_". Everyone was like "_Mui Ne again?_". We were like "__Yes, Mui Ne again.__"
 
-We stayed at [The Whales Village Guesthouse](https://www.agoda.com/lang-ca-voi-the-whales-village-guesthouse/hotel/phan-thiet-vn.html), a beautiful guesthouse inside a fish village. The village is surrounding by coco trees. The coco trees remind me my hometown in _Duc Pho_, __Quang Ngai__ where I almost spent all of my summer breaks. The beach is 10 feet from the guesthouse where we could see the sun falls into the sea. And, magically, the guesthouse happens to have a swimming pool where Poc and I could go swimming everyday. And then we dragged our hungry bellies along the beach to discover a new restaurant for dinner. She planned alove. Amazing!
+We stayed at [The Whales Village Guesthouse](https://www.agoda.com/lang-ca-voi-the-whales-village-guesthouse/hotel/phan-thiet-vn.html), a beautiful guesthouse inside a fish village. The village is surrounding by coco trees. The coco trees remind me my hometown in _Duc Pho_, __Quang Ngai__ where I almost spent all of my childhood summer breaks. The beach is 10 feet from the guesthouse where we could see the sun falls into the sea. And, magically, the guesthouse happens to have a swimming pool where Poc and I could go swimming everyday. And then we dragged our hungry bellies along the beach to discover a new restaurant for dinner. She planned alove. Amazing!
 
 ![She](/public/uploads/images/2016-02-22-is-missing-the-air-02.jpg "She")
 
