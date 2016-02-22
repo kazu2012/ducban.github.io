@@ -7,7 +7,7 @@ description: Our Tet Holiday was way so cool. We said goodbye to The Year of Goa
 ---
 
 
-Hmm, yet another Lunar New Year Holiday went through our boring life. Nah, it's not boring. I just wanted to write down some drama words. Our Tet Holiday was way so cool. We said goodbye to The Year of Goat on beach. Yeah, you read it right! __On the beach__, how about that?
+Hmm, yet another Lunar New Year Holiday went through our boring life. Nah, it's not boring. I just wanted to write down some drama words. Our Tet Holiday was way so cool. We said goodbye to The Year of Goat on the beach. Yeah, you read it right! __On the beach__, how about that?
 
 ![Long time no see the sun falls into the sea](/public/uploads/images/2016-02-22-is-missing-the-air-01.jpg "Long time no see the sun falls into the sea")
 
