@@ -6,7 +6,7 @@ tags: [b3, the owner, the wife, the husband, milestones]
 description: Today is special to The Owner. It marks a milestone that he was in the same cage with his The Lion of Sadec for seven and a half years.
 ---
 
-"Do not read this line. Click to the title instead.", said __The Owner__, "This line would be generated as the exceprt of this post that's why you should avoid reading it."
+"Do not read this paragraph. Click to the title instead.", said __The Owner__, "This paragraph would be generated as the exceprt of this post that's why you should avoid reading it."
 
 ![True Love Island](/public/uploads/images/2016-03-09-seven-and-a-half-years-01.jpg "True Love Island")
 
