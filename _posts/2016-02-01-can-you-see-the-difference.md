@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You See the Difference?
-categories: [note]
+categories: [notes]
 tags: [b3, the owner, the wife, the husband, daily stuffs]
 description: The Wife dyed her hair, it was lovely. But then the question came.
 ---
