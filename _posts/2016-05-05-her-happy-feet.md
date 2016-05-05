@@ -3,7 +3,7 @@ layout: post
 title: Her Happy Feet
 categories: [notes]
 tags: [b3, the owner]
-description: It's not everyday you see a girl who dances in a government office.
+description: It's not everyday you see someone dances in their office. That's why I was impressed a lot.
 ---
 
 
