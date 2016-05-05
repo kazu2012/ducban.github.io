@@ -2,7 +2,7 @@
 layout: post
 title: The Next Level
 categories: [notes]
-tags: [b3, design, ux, user experience]
+tags: [b3, design, ux, user experience, user experience design]
 description: By all mean UX is now considering an important factor which would decide the success of every projects.
 ---
 
