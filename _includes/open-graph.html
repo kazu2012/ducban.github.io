@@ -14,9 +14,9 @@
   {% endif %}
 
   {% if page.description %}
-  <meta property="og:image" content="{{ page.thumbnail }}" >
+  <meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}" >
   {% else %}
-  <meta property="og:image" content="/public/ico/android-icon-192x192.png" >
+  <meta property="og:image" content="{{ site.url }}/public/ico/android-icon-192x192.png" >
   {% endif %}
 
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" >
