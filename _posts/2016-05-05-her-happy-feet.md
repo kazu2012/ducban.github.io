@@ -4,6 +4,7 @@ title: Her Happy Feet
 categories: [notes]
 tags: [b3, the owner]
 description: It's not everyday you see someone dances in their office. That's why I was impressed a lot.
+thumbnail: /public/uploads/images/2016-05-05-her-happy-feet.jpg
 ---
 
 

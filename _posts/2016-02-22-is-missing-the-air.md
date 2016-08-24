@@ -4,6 +4,7 @@ title: Is Missing the Air
 categories: [notes]
 tags: [b3, the owner]
 description: Our Tet Holiday was way so cool. We said goodbye to The Year of Goat on beach. Yeah, you read it right! On the beach, how about that?
+thumbnail: /public/uploads/images/2016-02-22-is-missing-the-air-01.jpg
 ---
 
 
