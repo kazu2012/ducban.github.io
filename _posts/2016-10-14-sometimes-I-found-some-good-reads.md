@@ -15,9 +15,9 @@ Sometimes I found some good reads. I made a list and pushed into this blog witho
 * This is not for startup people: [Fuck You Startup World](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.u301ckwcl "Fuck You Startup World").
 * This is not for everyone no matter they are startup people or not: [I Used to Be a Human Being](http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html "I Used to Be a Human Being").
 
-Sometimes I found some good reads. Sometimes I found a workout tutorial. Here it is:
+Sometimes I found some good reads. Sometimes I found an awesome workout tutorial. Here it is:
 
 ![4 Ninutes of Hell](/public/uploads/images/2016-10-14-sometimes-I-found-some-good-reads-01.gif "4 Ninutes of Hell")
 
-Sometimes I found some good reads. But today, this note, I decided to stop right here. Way too cool, huh?
+Sometimes I found some good reads. But today, this note, I decided to stop right here. It was me who need some workout, yo! Way too cool, huh?
 
