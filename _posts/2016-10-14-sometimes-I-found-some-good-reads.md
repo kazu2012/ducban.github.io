@@ -7,7 +7,7 @@ description: Sometimes I found some good reads. I made a list but I don't push i
 ---
 
 
-Sometimes I found some good reads. I made a list but I don't push it to the Web. People already did it, I thought. Everybody shares the same stuffs on Facebook, Twitter, Tumblr, Slack etc. Why should I do the same?
+Sometimes I found some good reads. I made a list but I didn't push it to the Web. Someone already did it, I thought. Everyone shares the same stuffs on Facebook, Twitter, Tumblr, Slack etc everyday you know. Why should I do the same?
 
 Sometimes I found some good reads. I made a list and pushed into this blog without a thought. Here they are:
 
