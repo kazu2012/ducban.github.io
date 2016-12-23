@@ -1,0 +1,28 @@
+---
+layout: default
+active: blog
+---
+      
+{% for post in paginator.posts %}
+<section>
+  <h2 class="post-title">
+    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    <span class="date-of-post">{{ post.date | date_to_string }}</span>
+  </h2>
+  {{ post.excerpt | markdownify }}
+  <p class="dot-dot-dot">.&nbsp;.&nbsp;.</p>
+  <p class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">Read more</a></p>
+</section>
+{% endfor %}
+<section class="pagination">
+  {% if paginator.next_page %}
+    <div class="pagination-item older"><a href="{{ paginator.next_page_path }}">&larr; Older</a></div>
+  {% else %}
+    <div class="pagination-item older"><span>&larr; Older</span></div>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <div class="pagination-item newer"><a href="{{ paginator.previous_page_path }}">Newer &rarr;</a></div>
+  {% else %}
+    <div class="pagination-item newer"><span>Newer &rarr;</span></div>
+  {% endif %}
+</section>

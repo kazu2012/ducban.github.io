@@ -1,0 +1,12 @@
+<nav id="main-navigation" class="main-navigation">
+	<ul>
+		<li{% if page.active == 'homepage' %} class="active"{% endif %} ><a href="{{ site.baseurl }}/" title="Home">Home</a></li>
+		<li{% if page.active == 'about-b3' %} class="active"{% endif %}><a href="{{ site.baseurl }}/about-b3/" title="About B3">About B3</a></li>
+		<li{% if page.active == 'blog' %} class="active"{% endif %}><a href="{{ site.baseurl }}/blog/" title="Blog">Blog</a></li>
+	</ul>
+</nav>
+<div class="copyrights">
+	&copy; {{ site.time | date: '%Y' }}. All rights reserved. 
+	Served by <a href="http://jekyllrb.com/" target="_blank" title="Jekyll">Jekyll</a> on <a href="http://github.com/" target="_blank" title="Github">Github</a>. 
+	Made with &#9829; using <a href="https://edwardtufte.github.io/tufte-css/" target="_blank" title="Tufte CSS">Tufte CSS</a>
+</div>
