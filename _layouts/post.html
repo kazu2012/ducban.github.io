@@ -16,7 +16,7 @@ layout: default
   <div class="pagination-item older"><span>&larr; Older Post</span></div>
   {% endif %}
 
-  <div class="pagination-item blog"><a href="{{ site.baseurl }}/archive">All Posts</a></div>
+  <div class="pagination-item view-all"><a href="{{ site.baseurl }}/archive">All Posts</a></div>
 
   {% if page.next.url %}
   <div class="pagination-item newer"><a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" title="{{page.next.title}}">Newer Post &rarr;</a></div>

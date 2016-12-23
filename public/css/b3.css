@@ -27,3 +27,9 @@ nav.main-navigation ul li.active a { color: #f00; }
 nav.main-navigation ul li a:hover { background-color: transparent; color: #111; }
 
 div.copyrights { color: #999; margin: 0 0 2em 0.5em; }
+
+@media (max-width: 760px) {
+	article { padding-top: 0; }
+	section>ol, section>ul { width: auto; }
+	section.pagination div.view-all { display: none; }
+}
