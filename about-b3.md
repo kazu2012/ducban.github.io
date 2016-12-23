@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About B3
+active: about-b3
 ---
 
 

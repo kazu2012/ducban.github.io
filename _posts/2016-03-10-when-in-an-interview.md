@@ -4,18 +4,20 @@ title: When In an Interview
 categories: [facts]
 tags: [interview, employee, employer, the big question, good vibes, the intern]
 description: An interview is the chance to meet, to share and to discuss.
+active: blog
 ---
 
 
 One of my friends, a designer, told me that an employer asked him the question below in an interview. Bam!!!, right in the face, the BIG question.
 
-> What is the design trend of this year and the next year?
+<div class="epigraph"><blockquote><p>What is the design trend of this year and the next year?</p></blockquote></div>
+<!--more-->
 
 Of course I could answer this question easily. I could fancy to talk about the trend because I read about it all day everyday. But to be honest I don't think this is the right question to ask if you need to hire someone. In the curcumtance that you are in Vietnam, asking this kind of question matters nothing.
 
 Did you see the film [The Intern](https://en.wikipedia.org/wiki/The_Intern_(2015_film))? If you didn't then you should. In the early scene of the film there was an interview between a young man and an old man. Well, the young man was the employer and here was his question for his seventy-year-old employee?
 
-> Where you see yourself in ten years?
+<div class="epigraph"><blockquote><p>Where you see yourself in ten years?</p></blockquote></div>
 
 Again, Bam!!!, right in the face, the BIG question.
 

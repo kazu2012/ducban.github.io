@@ -4,11 +4,12 @@ title: Sometimes I Found Some Good Reads
 categories: [lists]
 tags: [founder fail, the product ceo paradox, startup world, startup people, human being, plank, 4 minutes of hell, tutorial, workout]
 description: Sometimes I found some good reads. I made a list but I don't push it to the Web. People already did it, I thought. Everybody shares the same stuffs on Facebook, Twitter, Tumblr, Slack etc. Why should I do the same?
+active: blog
 ---
 
 
 Sometimes I found some good reads. I made a list but I didn't push it to the Web. Someone already did it, I thought. Everyone shares the same stuffs on Facebook, Twitter, Tumblr, Slack etc everyday you know. Why should I do the same?
-
+<!--more-->
 Sometimes I found some good reads. I made a list and pushed into this blog without a thought. Here they are:
 
 * This is for startup people: [Why Founders Fail: The Product CEO Paradox](http://techcrunch.com/2013/08/10/why-founders-fail-the-product-ceo-paradox/ "Why Founders Fail: The Product CEO Paradox").

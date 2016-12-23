@@ -4,9 +4,11 @@ title: Meet Aerial the Screensaver
 categories: [notes]
 tags: [aerial, screensaver]
 description: Aerial was originally created for Apple TV, some awesome developer thought that it should be on OS X also.
+active: blog
 ---
 
 Aerial was originally created for Apple TV, an awesome developer thought it should be on OS X also. And then "Bam", [here it is](https://github.com/JohnCoates/Aerial "Apple TV Aerial Screensaver for Mac").
+<!--more-->
 
 There are three things I love about Aerial:
 

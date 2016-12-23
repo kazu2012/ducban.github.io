@@ -5,10 +5,12 @@ categories: [notes]
 tags: [movies, quentine tarantino, hateful eight (2016)]
 description: Quentin Tarantino's eighth film, The Hateful Eight (2016), is coming to screen in Vietnam. Woohoo!
 thumbnail: /public/uploads/images/2016-01-08-the-hateful-eight-scene.png
+active: blog
 ---
 
 
 __Quentin Tarantino__'s eighth film, __The Hateful Eight (2016)__, is coming to screen in Vietnam. Woohoo!
+<!--more-->
 
 ![The Hateful Eight (2016)](/public/uploads/images/2016-01-08-the-hateful-eight-poster.jpg "The Hateful Eight (2016)")
 

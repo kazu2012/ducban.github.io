@@ -5,10 +5,12 @@ categories: [notes]
 tags: [b3, the owner]
 description: It's not everyday you see someone dances in their office. That's why I was impressed a lot.
 thumbnail: /public/uploads/images/2016-05-05-her-happy-feet.jpg
+active: blog
 ---
 
 
 In March, I went to a government office to finish some paperwork. Normally at other offices, eg. banks, I will need to press a button on a machine to take a ticket before get in a queue. There was no this kind of machine at this office. They had a girl doing the ticket work manually. This girl had happy feet.
+<!--more-->
 
 It's not everyday you see someone dances in their office. That's why I was impressed a lot. The girl was simply moving her feet left and right, but her face was shining. I could see that she was very happy doing her job. She inspired me.
 

@@ -4,10 +4,12 @@ title: Is It an Emoji?
 categories: [lists]
 tags: [web designers, web design, medium, unsplash, founder mantras, mantra, founder, user interface, showcase, uyi, button, placement, b3, the owner]
 description: Spoiler alert! This article is an amazingly good read about webdesigners and their medium to create their works.
+active: blog
 ---
 
 
 No, you are not seeing it wrong. There is an emoji at the end of the url of the first bullet on the list below. _Spoiler alert!_ This article is an amazingly good read about webdesigners and their medium to create their works.
+<!--more-->
 
 * [Web designers, can you speak web?](https://www.chenhuijing.com/blog/speak-web/#🎹)
 * Have you ever asked yourself this question: [What does Unsplash cost?](http://backstage.crew.co/what-does-unsplash-cost/). No matter your answer is "Yes" or "No", you should read this article. _Spoiler alert again!_ There are three reactions after the cost was revealed. **Which reaction are you?** Please read the article, then answer this question. I will wait for you at the end of this list.

@@ -4,13 +4,14 @@ title: Can You See the Difference?
 categories: [notes]
 tags: [b3, the owner, the wife, the husband, daily stuffs, the big question]
 description: The Wife dyed her hair, it was lovely. But then the question came.
+active: blog
 ---
 
 
 __The Wife__ dyed her hair, it was lovely. But then the question came. One of the scariest questions which no husband want to be asked.
 
 The question is: "Can you see the difference?".
-
+<!--more-->
 Suddenly __The Husband__ wish that he could commit the latest version of his wife into Git. If he could do it, he can now easily tell her about how differenct she is based on the diff of the repository.
 
 He didn't see the change of her color. He told her that. She gave him a deathly silent minute. Dang you Git, when will you support committing people?

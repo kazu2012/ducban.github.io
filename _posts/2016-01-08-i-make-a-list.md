@@ -4,10 +4,12 @@ title: I Make a List
 categories: [lists]
 tags: [web development stuffs, news, articles, useful stuffs, video background, update your footer, visual planning for designer, ynab, dailyui, fixui, studio ghibli]
 description: It happened a lot when I wanted to write something but then I lost the spark.
+active: blog
 ---
 
 
 It happened a lot when I wanted to write something but then I lost the spark. The dots couldn't be connected. I deteled some lines and then decided to delete all. It was hurt since it wasn't easy for me to write all them down with my writing skill. To ease the pain, I make a list.
+<!--more-->
 
 Normally the list is all about web development stuffs, like below:
 

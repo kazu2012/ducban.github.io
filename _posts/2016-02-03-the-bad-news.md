@@ -4,11 +4,12 @@ title: The Bad News
 categories: [notes]
 tags: [virus, zika]
 description: This note is about Zika, the brain-eating virus, is making its first outbreak.
+active: blog
 ---
 
 
 The Tet Holiday of 2016 is coming, I am eager to celebrate the nation-wide official new year holiday. Everything looks great until a foreign virus decides to ship some [bad news](http://mashable.com/2016/02/02/zika-virus-the-definitive-mashable-faq/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial#04dOlF6y4gqE). This virus, Zika, loves to eat our brain. Dang, it's creepy. Please read the article above to equip a basic knowledge about Zika. It's highly recommended.
-
+<!--more-->
 > Based on evidence-to-date, Zika cannot be spread person-to-person and is not airborne, though much is unknown about whether it can be contracted sexually. There is one well-documented case in which Zika was sexually transmitted in 2008, and on Tuesday, the Centers for Disease Control and Prevention (CDC) in Atlanta confirmed to Mashable a case reported in Dallas County, Texas.
 
 The blockquote above is one of the important part of the article. You should at least read it to know how Zika travel around the world and spread out. 

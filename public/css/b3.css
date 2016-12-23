@@ -1,1 +1,29 @@
-.content p img { width: 100%; }
+a, a:link, a:visited
+a:hover, a:focus { background: none; background-position: 0 0; transition: background-color 0.3s ease, border 0.2s ease-out, color 0.5s ease; text-shadow: none; }
+a:link, a:visited { background-color: transparent; color: #f00; }
+a:hover, a:focus { background-color: #111; color: #fff; }
+
+h2.post-title a,
+h2.post-title span.date-of-post {  }
+h2.post-title a { margin-bottom: 0.5em; }
+h2.post-title span.date-of-post { color: #999; font-size: 1.4rem; }
+
+p.dot-dot-dot { color: #999; margin-bottom: 0; }
+p.read-more { margin-top: 0.5em; }
+
+section.pagination div.pagination-item { display: inline-block; margin: 1em 0.5em 1em 0; }
+div.pagination-item a:link,
+div.pagination-item a:visited,
+div.pagination-item span { background: none; border-bottom: 2px solid #111; color: #111; display: block; font-size: 1rem; padding: 0 1em 0.2em; }
+div.pagination-item span { border-bottom-color: #ccc; color: #ccc; }
+div.pagination-item a:hover,
+div.pagination-item a:focus { border-bottom-color: #f00; color: #f00;  }
+
+nav.main-navigation { padding-bottom: 1em; }
+nav.main-navigation ul { display: block; list-style: none; margin: 0; padding: 0; }
+nav.main-navigation ul li { display: inline; margin: 0 0.5em; padding: 0; }
+nav.main-navigation ul li a { color: #999; font-size: 1rem; }
+nav.main-navigation ul li.active a { color: #f00; }
+nav.main-navigation ul li a:hover { background-color: transparent; color: #111; }
+
+div.copyrights { color: #999; margin: 0 0 2em 0.5em; }
