@@ -17,9 +17,12 @@ The blockquote above is one of the important part of the article. You should at 
 
 As far as I read, Zika first favorite food was wood. One day, some of it found out that human brain is more delicious then made the jump. Their favorite airlines is provided by the Aedes aegypti mosquito. So far there is no vaccine for Zika so protecting yourselves from Aedes aegypti mosquito is the only way to avoid it to transmit between people.
 
-> The virus' spread may have been aided by El Niño-related heavy rains and flooding in parts of Brazil, since standing water makes for ideal breeding grounds for the virus-carrying Aedes aegypti mosquito.
-
-> What is not yet known about Zika? The short answer? A lot.
+<div class="epigraph">
+	<blockquote>
+		<p>The virus' spread may have been aided by El Niño-related heavy rains and flooding in parts of Brazil, since standing water makes for ideal breeding grounds for the virus-carrying Aedes aegypti mosquito.</p>
+		<p>What is not yet known about Zika? The short answer? A lot.</p>
+	</blockquote>
+</div>
 
 You should know that this note initial content is about the universe and its end. But since we still have billion of billion of years to talk about this ending before it happens, I changed my mind to write about the threat of Zika. We are living in a tropical area which has the same environment with the area where Zika is spreading right now. I hope Zika won't come here before its vaccine is found, but it's never enough to gain knowledge. So, thank me later.
 
