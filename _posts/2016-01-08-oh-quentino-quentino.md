@@ -12,11 +12,11 @@ active: blog
 __Quentin Tarantino__'s eighth film, __The Hateful Eight (2016)__, is coming to screen in Vietnam. Woohoo!
 <!--more-->
 
-![The Hateful Eight (2016)](/public/uploads/images/2016-01-08-the-hateful-eight-poster.jpg "The Hateful Eight (2016)")
+<figure><img src="/public/uploads/images/2016-01-08-the-hateful-eight-poster.jpg" title="The Hateful Eight (2016)"><figcaption>The Hateful Eight (2016)</figcaption></figure>
 
 Darn, couldn't wait to see it.
 
-![No one to trust, everyone to hate](/public/uploads/images/2016-01-08-the-hateful-eight-scene.png "No one to trust, everyone to hate")
+<figure><img src="/public/uploads/images/2016-01-08-the-hateful-eight-scene.png" title="No one to trust, everyone to hate"><figcaption>No one to trust, everyone to hate</figcaption></figure>
 
 BAM BAM BAM BAM BAM BAM BAM __BAM__. OMG, the eighth shot kills me.
 

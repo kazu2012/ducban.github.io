@@ -4,6 +4,7 @@ title: Sometimes I Found Some Good Reads
 categories: [lists]
 tags: [founder fail, the product ceo paradox, startup world, startup people, human being, plank, 4 minutes of hell, tutorial, workout]
 description: Sometimes I found some good reads. I made a list but I don't push it to the Web. People already did it, I thought. Everybody shares the same stuffs on Facebook, Twitter, Tumblr, Slack etc. Why should I do the same?
+thumbnail: /public/uploads/images/2016-10-14-sometimes-I-found-some-good-reads-01.gif
 active: blog
 ---
 
@@ -18,7 +19,7 @@ Sometimes I found some good reads. I made a list and pushed into this blog witho
 
 Sometimes I found some good reads. Sometimes I found an awesome workout tutorial. Here it is:
 
-![4 Ninutes of Hell](/public/uploads/images/2016-10-14-sometimes-I-found-some-good-reads-01.gif "4 Ninutes of Hell")
+<figure><img src="/public/uploads/images/2016-10-14-sometimes-I-found-some-good-reads-01.gif" alt="4 Ninutes of Hell"><figcaption>4 Ninutes of Hell</figcaption></figure>
 
 Sometimes I found some good reads. But today, this note, I decided to stop right here. It was me who need some workout, yo! Way too cool, huh?
 

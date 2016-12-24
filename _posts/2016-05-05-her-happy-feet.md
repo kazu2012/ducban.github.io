@@ -18,6 +18,6 @@ There are many ways to express character. I categorise them into two categories:
 
 My lady are taking some of my off-the-grid moments and share them on-the-line and to be honest, I am fine with it. It's not only because she is a Lion but also because I do respect her effort to digitalise them. If she didn't do it, our family couldn't have our "on-this-day" stuffs to travel back in time.
 
-![This is us having duck noodle on the street in the morning](/public/uploads/images/2016-05-05-her-happy-feet.jpg "This is us having duck noodle on the street in the morning")
+<figure><img src="/public/uploads/images/2016-05-05-her-happy-feet.jpg" alt="This is us having duck noodle on the street in the morning"><figcaption>This is us having duck noodle on the street in the morning</figcaption></figure>
 
 This is awesome when you are able to do what you love. Like having duck noodle on the street in the morning with your lady. Or runing like hell before the Sun rises to beat your latest records. Or dancing left and right on your office floor while doing your job. Or writing a big note about your 29 birthday noting down things you learnt all the last year. No matter they are on-the-line or off-the-grid, the only thing which matters is **Are you doing something or not?**. Stop plan but don't act. Life is short. Stay hard.
