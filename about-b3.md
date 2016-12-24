@@ -2,6 +2,8 @@
 layout: page
 title: About B3
 active: about-b3
+tags: [about, about b3, the owner, ho chi minh city, digital producer, husband, father, dog/cat lover, dog lover, cat lover, b3, jekyll, github, edward tufte, tufte css, et book]
+description: 3 facts about B3 (aka The Owner of this site): 1/ Based on Ho Chi Minh City. 2/ Digital Producer by day. 3/ Husband, father, dog/cat lover by night.
 ---
 
 
