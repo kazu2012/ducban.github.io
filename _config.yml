@@ -3,7 +3,8 @@
 #highlighter:			pygments
 
 # Permalinks
-permalink:				pretty
+#permalink:				pretty
+permalink:        /blog/:categories/:title/
 
 # Setup
 title:					'IT IS ALL B3'
