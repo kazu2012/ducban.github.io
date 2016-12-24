@@ -3,14 +3,14 @@
 #highlighter:			pygments
 
 # Permalinks
-#permalink:				pretty
-permalink:        /blog/:title/
+permalink:				pretty
+#permalink:        /blog/:title/
 
 # Setup
 title:					'IT IS ALL B3'
 tagline:				'where he writes his head up.'
-description:			'This is the official blog of Ban, Nguyen Duc, a digital producer by day and a husband, father, dog/cat lover by night.'
-url:					http://ducban.com
+description:		'This is the official blog of Ban, Nguyen Duc, a digital producer by day and a husband, father, dog/cat lover by night.'
+url:					   http://ducban.com
 
 author:
   name:					'B3'
