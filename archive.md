@@ -3,7 +3,7 @@ layout: page
 title: Archive
 active: blog
 tags: [b3, posts, blog, archive]
-description: The archive of all B3's blog posts.
+description: This is where you can find all of the blog posts of B3.
 ---
 
 {% for post in site.posts %}
