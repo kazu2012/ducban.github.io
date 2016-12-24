@@ -4,7 +4,7 @@
 
 # Permalinks
 #permalink:				pretty
-permalink:        /blog/:categories/:title/
+permalink:        /blog/:title/
 
 # Setup
 title:					'IT IS ALL B3'
