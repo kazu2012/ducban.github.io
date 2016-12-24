@@ -4,11 +4,13 @@
   {% include head.html %}
 
   <body>
+  	{% include nav.html %}
 	<article>
 		<h1 id="tufte-css"><a href="{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a></h1>
 		<p class="subtitle">{{ site.tagline }}</p>
 		{{ content }}
 	</article>
     {% include nav.html %}
+    {% include foot.html %}
   </body>
 </html>
