@@ -19,7 +19,7 @@ Sometimes I found some good reads. I made a list and pushed into this blog witho
 
 Sometimes I found some good reads. Sometimes I found an awesome workout tutorial. Here it is:
 
-<figure><img src="/public/uploads/images/2016-10-14-sometimes-I-found-some-good-reads-01.gif" alt="4 Ninutes of Hell"><figcaption>4 Ninutes of Hell</figcaption></figure>
+<figure><img src="/public/uploads/images/2016-10-14-sometimes-I-found-some-good-reads-01.gif" alt="4 Minutes of Hell"><figcaption>4 Minutes of Hell</figcaption></figure>
 
 Sometimes I found some good reads. But today, this note, I decided to stop right here. It was me who need some workout, yo! Way too cool, huh?
 
