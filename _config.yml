@@ -10,13 +10,16 @@ permalink:				          pretty
 title:			             	 'IT IS ALL B3'
 tagline:          				'where he writes his head up.'
 description:	           	'This is the official blog of Ban, Nguyen Duc, a digital producer by day and a husband, father, dog/cat lover by night.'
+meta-keywords:            'ducban.com, www.ducban.com, digital producer, lb, leo burnett vietnam, leo burnett, ducban, duc ban, nguyen duc ban, nguyenducban, anhthu, anh thu, nguyen thi anh thu, mepoc, poc, nhat an, nguyen nhat an, nhatan, husband, father, dog/cat lover'
 url:	           				   http://ducban.com
 typekit-code:             'jbo4rqg'
 google-tag-manager-code:  'GTM-PM3JTN'
+thumbnail:                /public/uploads/images/2016-12-24-homepage-cover.jpg
 
 author:
   name:	          				'B3'
   url:          					http://ducban.com
+  twitter:                ducban
 
 paginate:				          3
 paginate_path:            "blog/page:num"

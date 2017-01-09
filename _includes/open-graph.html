@@ -16,9 +16,9 @@
   {% if page.thumbnail %}
   <meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}">
   {% else %}
-  <meta property="og:image" content="{{ site.url }}/public/uploads/images/2016-12-24-homepage-cover.jpg">
+  <meta property="og:image" content="{{ site.url }}{{ site.thumbnial }}">
   {% endif %}
 
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }} / {{ site.tagline }}">
-  <meta name="twitter:site" content="@ducban">
+  <meta name="twitter:site" content="@{{ site.author.twitter }}">
