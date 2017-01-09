@@ -22,6 +22,17 @@
     <link rel="stylesheet" href="/public/css/latex.css"/>
     <link rel="stylesheet" href="/public/css/b3.css"/>
 
+    {% if page.typekit-enable %}
+    <!-- Typekit -->
+    <script src="https://use.typekit.net/{{ site.typekit-code }}.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <style type="text/css">
+        body article section {font-family: skolar-latin, Georgia, serif;}
+        div.table-wrapper {font-family: skolar-latin, Georgia, serif;}
+    </style>
+    {% endif %}
+
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="57x57" href="/public/ico/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/public/ico/apple-icon-60x60.png">

@@ -5,6 +5,7 @@ categories: [lists]
 tags: [web development stuffs, news, articles, useful stuffs, video background, update your footer, visual planning for designer, ynab, dailyui, fixui, studio ghibli]
 description: It happened a lot when I wanted to write something but then I lost the spark.
 active: blog
+typekit-enable: false
 ---
 
 

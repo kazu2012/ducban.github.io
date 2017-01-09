@@ -6,6 +6,7 @@ tags: [founder fail, the product ceo paradox, startup world, startup people, hum
 description: Sometimes I found some good reads. I made a list but I don't push it to the Web. People already did it, I thought. Everybody shares the same stuffs on Facebook, Twitter, Tumblr, Slack etc. Why should I do the same?
 thumbnail: /public/uploads/images/2016-10-14-sometimes-I-found-some-good-reads-01.gif
 active: blog
+typekit-enable: false
 ---
 
 

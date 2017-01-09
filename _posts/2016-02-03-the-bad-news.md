@@ -5,6 +5,7 @@ categories: [notes]
 tags: [virus, zika]
 description: This note is about Zika, the brain-eating virus, is making its first outbreak.
 active: blog
+typekit-enable: false
 ---
 
 

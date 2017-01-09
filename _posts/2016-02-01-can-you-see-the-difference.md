@@ -5,6 +5,7 @@ categories: [notes]
 tags: [b3, the owner, the wife, the husband, daily stuffs, the big question]
 description: The Wife dyed her hair, it was lovely. But then the question came.
 active: blog
+typekit-enable: false
 ---
 
 

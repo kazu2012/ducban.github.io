@@ -5,6 +5,7 @@ categories: [lists]
 tags: [web designers, web design, medium, unsplash, founder mantras, mantra, founder, user interface, showcase, uyi, button, placement, b3, the owner]
 description: Spoiler alert! This article is an amazingly good read about webdesigners and their medium to create their works.
 active: blog
+typekit-enable: false
 ---
 
 

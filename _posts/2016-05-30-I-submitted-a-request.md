@@ -5,6 +5,7 @@ categories: [notes]
 tags: [IndieGogo, indiegogo.com, scam, scammer, scammed, Zaptip, magnetic super charger]
 description: I don't believe that IndieGogo will do anything because if they care about their customers they should have done it before.
 active: blog
+typekit-enable: false
 ---
 
 

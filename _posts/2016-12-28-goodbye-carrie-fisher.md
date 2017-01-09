@@ -5,6 +5,7 @@ categories: [notes]
 tags: [carrie fisher, princess leia, geogre micheal, careless whisper, wham, last christmas]
 description: It's not easy to start new days with some bad news. Two days ago it was about Geogre Micheal and today it is all about Carrie Fisher. Maybe we are reaching to the day that people of our generation are set to be gone. RIP our princess, thanks for spreading hope over the galaxy. May the Force be with you.
 active: blog
+typekit-enable: false
 ---
 
 

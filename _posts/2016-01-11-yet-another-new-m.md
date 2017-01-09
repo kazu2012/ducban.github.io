@@ -5,6 +5,7 @@ categories: [notes]
 tags: [facebook m, personal assistant, cortana, siri]
 description: Facebook M empowers Facebook Messenger.
 active: blog
+typekit-enable: false
 ---
 
 
